@@ -1,0 +1,10 @@
+Game opens with blank board
+
+Game requests input from player 1 - which square?
+Game updates board with move
+Game requests input with player 2 - which square?
+Game updates board with move
+
+Repeat until one player wins or all squares are filled
+game outputs winner or stalemate message
+
