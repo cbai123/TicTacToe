@@ -1,3 +1,6 @@
+#prints board given by board input. Used to prevent repetition and tidy
+#up main game file.
+
 def board_print(board, dash)
     puts "#{board[0]}|#{board[1]}|#{board[2]}"
     puts dash
