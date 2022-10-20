@@ -8,3 +8,11 @@ Game updates board with move
 Repeat until one player wins or all squares are filled
 game outputs winner or stalemate message
 
+
+
+
+win conditions
+
+TL TC TR
+CL  C CR
+BL BC BR 
